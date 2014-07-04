@@ -1,0 +1,79 @@
+% Customizable fields and text areas start with % >> below.
+% Lines starting with the comment character (%) are normally removed before release outside the collaboration, but not those comments ending lines
+
+% svn info. These are modified by svn at checkout time.
+% The last version of these macros found before the maketitle will be the one on the front page,
+% so only the main file is tracked.
+% Do not edit by hand!
+\RCS$Revision$
+\RCS$HeadURL$
+\RCS$Id$
+%%%%%%%%%%%%% local definitions %%%%%%%%%%%%%%%%%%%%%
+% This allows for switching between one column and two column (cms@external) layouts
+% The widths should  be modified for your particular figures. You'll need additional copies if you have more than one standard figure size.
+\newlength\cmsFigWidth
+\ifthenelse{\boolean{cms@external}}{\setlength\cmsFigWidth{0.85\columnwidth}}{\setlength\cmsFigWidth{0.4\textwidth}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsLeft}{top}}{\providecommand{\cmsLeft}{left}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsRight}{bottom}}{\providecommand{\cmsRight}{right}}
+%%%%%%%%%%%%%%%  Title page %%%%%%%%%%%%%%%%%%%%%%%%
+\cmsNoteHeader{AN-13-421} % This is over-written in the CMS environment: useful as preprint no. for export versions
+% >> Title: please make sure that the non-TeX equivalent is in PDFTitle below
+\title{Search for displaced photons using conversions at 8 TeV.}
+
+% >> Authors
+%Author is always "The CMS Collaboration" for PAS and papers, so author, etc, below will be ignored in those cases
+%For multiple affiliations, create an address entry for the combination
+%To mark authors as primary, use the \author* form
+\address[neu]{University of Ghent}
+\address[cern]{CERN}
+\author[cern]{Alberto Ocampo, Michael Sigamani and Ward Van Driessche}
+
+% >> Date
+% The date is in yyyy/mm/dd format. Today has been
+% redefined to match, but if the date needs to be fixed, please write it in this fashion.
+% For papers and PAS, \today is taken as the date the head file (this one) was last modified according to svn: see the RCS Id string above.
+% For the final version it is best to "touch" the head file to make sure it has the latest date.
+\date{\today}
+
+% >> Abstract
+% Abstract processing:
+% 1. **DO NOT use \include or \input** to include the abstract: our abstract extractor will not search through other files than this one.
+% 2. **DO NOT use %**                  to comment out sections of the abstract: the extractor will still grab those lines (and they won't be comments any longer!).
+% 3. For PASs: **DO NOT use tex macros**         in the abstract: CDS MathJax processor used on the abstract doesn't understand them _and_ will only look within $$. The abstracts for papers are hand formatted so macros are okay.
+\abstract{
+   A search is performed for long-lived neutral particles decaying into a photon and invisible particles. An example of such a signature is the decay of the lightest neutralino with nonzero lifetime into a gravitino and a photon in a gauge-mediated supersymmetry model, with the neutralino as the next-to-lightest supersymmetric particle and the gravitino as the lightest. The search uses events containing photons, missing transverse energy, and jets. The impact parameter of the photon relative to the beam-beam collision point can be reconstructed using photons converting into electron/positron pairs. The data sample corresponds to an integrated luminosity of 19.3 fb$^{-1}$ in pp collisions at $\sqrt{s} = 8$ TeV, recorded in summer of 2012 by the CMS experiment at the LHC.
+}
+
+% >> PDF Metadata
+% Do not comment out the following hypersetup lines (metadata). They will disappear in NODRAFT mode and are needed by CDS
+% Also: make sure that the values of the metadata items are sensible and are in plain text:
+% (1) no TeX! -- for \sqrt{s} use sqrt(s) -- this will show with extra quote marks in the draft version but is okay).
+% (2) no %.
+% (3) No curly braces {}.
+\hypersetup{%
+pdfauthor={Ward Van Driessche},%
+pdftitle={Search for displaced photons using conversions at 8 TeV.},%
+pdfsubject={CMS},%
+pdfkeywords={CMS, physics, software, computing, SUSY, long-lived particle}}
+
+\maketitle %maketitle comes after all the front information has been supplied
+% >> Text
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Begin text %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% **DO NOT REMOVE THE BIBLIOGRAPHY** which is located before the appendix.
+%% You can take the text between here and the bibiliography as an example which you should replace with the actual text of your document.
+%% If you include other TeX files, be sure to use "\input{filename}" rather than "\input filename".
+%% The latter works for you, but our parser looks for the braces and will break when uploading the document.
+%%%%%%%%%%%%%%%
+\section{Introduction}
+\cite{Sjostrand:2006za}
+
+When looking for SUSY particles many features are model-dependent. For example, when assuming $R$-parity to be conserved, the Lightest SUSY Particle (LSP) is not the same in every model and thus exhibits widely different features for different models. Examples of these supersymmetry models are minimal supergravity (mSUGRA) \cite{Nilles:1983ge}, anomaly-mediated SUSY breaking (AMSB) \cite{Randall:1998uk}, hidden valley models \cite{oai:arXiv.org:hep-ph/0604261} and gauge-mediated supersymmetry breaking (GMSB) \cite{oai:arXiv.org:0812.2051}. Of these heavy superparticles, some of them can be neutral. These can decay into photons and invisible particles. The former particles can interact with our detector and can therefore be detected, whereas the latter do not. The lifetime of these neutral particles is a free parameter in the model.
+\\
+\\
+This anaylsis is largely based on a previous analysis performed with the 7 TeV dataset \cite{Hongliang}. They used a conversions analysis that will be explained in more detail in section \ref{sec:IP}. Basically it comes down to choosing a model, one of the many that are possible in the world of SUSY, and look if there is an interaction (e.g. a decay) that can be examinated in the CMS-experiment. To look for an interaction, a \emph{main search variable} has to be determined. A variable that can be constructed from experimental data and if the interaction occurs, can be distinguished from other background interactions that also give a certain non-zero value to this variable. In order to do this we first compute how the signal should look like if the interaction occurs and make sure that it can in fact be distinguished from other background interactions. If the analysis proves to be strong enough to distinguish signal from background, from our experimental data, limits can be set on the probability of an interaction of this sort to happen.
+
+Another analysis that should be mentioned is the timing analysis done using the same 7 TeV dataset \cite{Chatrchyan:2012jwg}. This timing analysis is different than the conversion method used here. It is a more powerful analysis as the photons do not have to convert into an $e^+e^-$ pair. The two methods can however be combined to improve our statistics and thus yield a better result.
+
+%The Standard Model (SM), a renormalizable relativistic quantum of local gauge invariance, predicted and explained many physical phenomena. But despite its many successes, there is still much left for the unknown. Some of these problems can be explained using models that predict new heavy particles. Examples of these supersymmetry models are hidden valley models \cite{hiddenvalley} and gauge-mediated supersymmetry breaking (GMSB) \cite{GMSB}. Of these heavy particles, there can also be neutral ones, decaying into photons and invisible particles. The former particles can interact with our detector and can thus be detected, whereas the latter do not. The lifetime of these neutral particles is a free parameter in the model and for sufficiently long lifetimes (order of 1 to 10 ns), measurement of the shower direction by the D0 experiment \cite{D0} or time-of-flight by the CDF experiment \cite{CDF} with an electromagnetic calorimeter can be used to identify such decays.
+%%% DO NOT ADD \end{document}!
+

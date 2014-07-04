@@ -1,0 +1,1733 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.5.22)  1 JUL 2014 15:40
+entering extended mode
+ %&-line parsing enabled.
+**/afs/cern.ch/user/w/wvandrie/AN/notes/tmp/AN-13-421_temp.tex
+(/afs/cern.ch/user/w/wvandrie/AN/notes/tmp/AN-13-421_temp.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, basque, bulgaria
+n, catalan, czech, danish, dutch, ukenglish, usenglishmax, finnish, french, gal
+ician, german, ngerman, swissgerman, monogreek, greek, hungarian, italian, bokm
+al, nynorsk, polish, portuguese, russian, slovak, spanish, swedish, ukrainian, 
+loaded.
+(/afs/cern.ch/user/w/wvandrie/AN/notes/general/cms-tdr.cls
+=======================================================
+ 
+ CMS TDR/NOTE style. Version 240268
+ 
+ Lucas Taylor, 2014-05-05
+ 
+=======================================================
+Document Class: cms-tdr 2006/12/21
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/base/ifthen.st
+y
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Using article 11pt\ option
+Using article twoside\ option
+Using article a4paper\ option
+Not using cms note sub-class
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/base/article.c
+ls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/base/size11.cl
+o
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/fancybox/fancy
+box.sty
+Package: fancybox 2010/05/15 1.4
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box26
+\shadowsize=\dimen103
+\@Sbox=\box27
+\do@VerbBox=\toks14
+\the@fancyput=\toks15
+\this@fancyput=\toks16
+\EndVerbatimTokens=\toks17
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/tools/multicol
+.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count87
+\mult@box=\box28
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count88
+\c@collectmore=\count89
+\doublecol@number=\count90
+\multicoltolerance=\count91
+\multicolpretolerance=\count92
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box29
+\last@line=\box30
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count93
+\c@finalcolumnbadness=\count94
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/tools/longtabl
+e.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip45
+\LTright=\skip46
+\LTpre=\skip47
+\LTpost=\skip48
+\LTchunksize=\count95
+\LTcapwidth=\dimen112
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@cols=\count96
+\LT@rows=\count97
+\c@LT@tables=\count98
+\c@LT@chunks=\count99
+\LT@p@ftn=\toks18
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/tools/array.st
+y
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks19
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/lineno/lineno.
+sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count100
+\output=\toks20
+\linenoprevgraf=\count101
+\linenumbersep=\dimen115
+\linenumberwidth=\dimen116
+\c@linenumber=\count102
+\c@pagewiselinenumber=\count103
+\c@LN@truepage=\count104
+\c@internallinenumber=\count105
+\c@internallinenumbers=\count106
+\quotelinenumbersep=\dimen117
+\bframerule=\dimen118
+\bframesep=\dimen119
+\bframebox=\box58
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/fancyhdr/fancy
+hdr.sty
+\fancy@headwidth=\skip51
+\f@ncyO@elh=\skip52
+\f@ncyO@erh=\skip53
+\f@ncyO@olh=\skip54
+\f@ncyO@orh=\skip55
+\f@ncyO@elf=\skip56
+\f@ncyO@erf=\skip57
+\f@ncyO@olf=\skip58
+\f@ncyO@orf=\skip59
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/subfig/subfig.
+sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/graphics/keyva
+l.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/caption/captio
+n.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/caption/captio
+n3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen120
+\captionmargin@=\dimen121
+\captionwidth=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
+)
+\c@ContinuedFloat=\count107
+Package caption Info: longtable package is loaded.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/caption/ltcapt
+ion.sty
+Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
+))
+\c@KVtest=\count108
+\sf@farskip=\skip60
+\sf@captopadj=\dimen126
+\sf@capskip=\skip61
+\sf@nearskip=\skip62
+\c@subfigure=\count109
+\c@subfigure@save=\count110
+\c@lofdepth=\count111
+\c@subtable=\count112
+\c@subtable@save=\count113
+\c@lotdepth=\count114
+\sf@top=\skip63
+\sf@bottom=\skip64
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/tools/xspace.s
+ty
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/multirow/multi
+row.sty
+\bigstrutjot=\dimen127
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/tools/dcolumn.
+sty
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/xcolor/xcolor.
+sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/latexconfig/co
+lor.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdf
+tex.def
+File: pdftex.def 2011/05/18 v0.06c Graphics/color for pdfTeX
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/generic/oberdiek/inf
+warerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/generic/oberdiek/ltx
+cmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count115
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/colortbl/color
+tbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+\everycr=\toks22
+\minrowclearance=\skip65
+)
+\rownum=\count116
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/graphics/dvips
+nam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/amsmath/amsmat
+h.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip66
+For additional information on amsmath, use the `?' option.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/amsmath/amstex
+t.sty
+Package: amstext 2000/06/29 v2.01
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/amsmath/amsgen
+.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks23
+\ex@=\dimen128
+))
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/amsmath/amsbsy
+.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen129
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/amsmath/amsopn
+.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count117
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count118
+\leftroot@=\count119
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count120
+\DOTSCASE@=\count121
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box59
+\strutbox@=\box60
+\big@size=\dimen130
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count122
+\c@MaxMatrixCols=\count123
+\dotsspace@=\muskip10
+\c@parentequation=\count124
+\dspbrk@lvl=\count125
+\tag@help=\toks24
+\row@=\count126
+\column@=\count127
+\maxfields@=\count128
+\andhelp@=\toks25
+\eqnshift@=\dimen131
+\alignsep@=\dimen132
+\tagshift@=\dimen133
+\tagwidth@=\dimen134
+\totwidth@=\dimen135
+\lineht@=\dimen136
+\@envbody=\toks26
+\multlinegap=\skip67
+\multlinetaggap=\skip68
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/amsfonts/amssy
+mb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/amsfonts/amsfo
+nts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)) (/afs/cern.ch/user/w/wvandrie/AN/notes/general/pennames-pazo.sty) (/afs/cern
+.ch/user/w/wvandrie/AN/notes/general/topcapt.sty
+Package: topcapt 2004/12/11 v1.2 Caption at top of float
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/generic/oberdiek/ifp
+df.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+) (/afs/cern.ch/user/w/wvandrie/AN/notes/general/pdfdraftcopy.sty
+Package: pdfdraftcopy 2003/08/11 1.2 Draft copy in PDF (CVR)
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/graphics/graph
+icx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/graphics/graph
+ics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/graphics/trig.
+sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/latexconfig/gr
+aphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+) (/afs/cern.ch/user/w/wvandrie/AN/notes/general/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count129
+\cp@tempcnt=\count130
+)
+\LLY=\dimen139
+\LLX=\dimen140
+\URX=\dimen141
+\URY=\dimen142
+\topmargin=\dimen143
+\bottommargin=\dimen144
+) (/afs/cern.ch/user/w/wvandrie/AN/notes/general/ptdr-definitions.sty
+Package: ptdr-definitions 2014/06/24 CMS Additional Macro Definitions (247905)
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/psnfss/palatin
+o.sty
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/psnfss/mathpaz
+o.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup6
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/psnfss/helvet.
+sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/sectsty/sectst
+y.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+\parskipsaved=\skip69
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/graphics/lscap
+e.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/rotating/rotat
+ing.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count131
+\rotFPtop=\skip70
+\rotFPbot=\skip71
+\rot@float@box=\box61
+\rot@mess@toks=\toks28
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/hyperref/hyper
+ref.sty
+Package: hyperref 2011/04/17 v6.82g Hypertext links for LaTeX
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/generic/oberdiek/hob
+sub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/generic/oberdiek/hob
+sub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/generic/ifxetex/ifxe
+tex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/oberdiek/kvopt
+ions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen145
+\Hy@linkcounter=\count132
+\Hy@pagecounter=\count133
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/hyperref/pd1en
+c.def
+File: pd1enc.def 2011/04/17 v6.82g Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count134
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/latexconfig/hy
+perref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 3905
+.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3905.
+Package hyperref Info: Option `colorlinks' set `false' on input line 3905.
+Package hyperref Info: Option `plainpages' set `false' on input line 3905.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 3905.
+Package hyperref Info: Hyper figures OFF on input line 4026.
+Package hyperref Info: Link nesting OFF on input line 4031.
+Package hyperref Info: Hyper index ON on input line 4034.
+Package hyperref Info: Plain pages OFF on input line 4041.
+Package hyperref Info: Backreferencing OFF on input line 4046.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4264.
+\c@Hy@tempcnt=\count135
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4617.
+\Fld@menulength=\count136
+\Field@Width=\dimen146
+\Fld@charsize=\dimen147
+Package hyperref Info: Hyper figures OFF on input line 5701.
+Package hyperref Info: Link nesting OFF on input line 5706.
+Package hyperref Info: Hyper index ON on input line 5709.
+Package hyperref Info: backreferencing OFF on input line 5716.
+Package hyperref Info: Link coloring OFF on input line 5721.
+Package hyperref Info: Link coloring with OCG OFF on input line 5726.
+Package hyperref Info: PDF/A mode OFF on input line 5731.
+LaTeX Info: Redefining \ref on input line 5771.
+LaTeX Info: Redefining \pageref on input line 5775.
+\Hy@abspage=\count137
+\c@Item=\count138
+\c@Hfootnote=\count139
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/hyperref/hpdft
+ex.def
+File: hpdftex.def 2011/04/17 v6.82g Hyperref driver for pdfTeX
+\Fld@listcount=\count140
+\c@bookmark@seq@number=\count141
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/oberdiek/rerun
+filecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip72
+)
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/natbib/natbib.
+sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip73
+\bibsep=\skip74
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count142
+)
+Defining CMS Note commands
+\cmsinstskip=\skip75
+\cmsauthskip=\skip76
+\c@author=\count143
+\c@address=\count144
+\CMSabstractbox=\box62
+) (/afs/cern.ch/user/w/wvandrie/AN/notes/tmp/AN-13-421_temp.aux)
+\openout1 = `AN-13-421_temp.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 16.
+LaTeX Font Info:    <567INP ot1ppl.fd> on input line 16.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/psnfss/ot1ppl.
+fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 16.
+Package caption Info: `topcapt' package detected; setting `position=b' for comp
+atibility reasons.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+<567INP supp-pdf.mkii>
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/context/base/supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count145
+\scratchdimen=\dimen148
+\scratchbox=\box63
+\nofMPsegments=\count146
+\nofMParguments=\count147
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count148
+\MPscratchDim=\dimen149
+\MPnumerator=\count149
+\everyMPtoPDFconversion=\toks30
+)
+\AtBeginShipoutBox=\box64
+Package hyperref Info: Link coloring OFF on input line 16.
+<567INP nameref.sty>
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/hyperref/namer
+ef.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+<567INP gettitlestring.sty>
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/generic/oberdiek/get
+titlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+<567INP gettitlestring.cfg>
+)
+\c@section@level=\count150
+)
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
+<567INP AN-13-421_temp.out>
+(/afs/cern.ch/user/w/wvandrie/AN/notes/tmp/AN-13-421_temp.out)
+<567INP AN-13-421_temp.out>
+(/afs/cern.ch/user/w/wvandrie/AN/notes/tmp/AN-13-421_temp.out)
+\@outlinefile=\write4
+\openout4 = `AN-13-421_temp.out'.
+
+\cmsFigWidth=\skip77
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 84.
+
+LaTeX Font Info:    <567INP omlzplm.fd> on input line 84.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/psnfss/omlzplm
+.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 84.
+
+LaTeX Font Info:    <567INP omszplm.fd> on input line 84.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/psnfss/omszplm
+.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 84.
+
+LaTeX Font Info:    <567INP omxzplm.fd> on input line 84.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/psnfss/omxzplm
+.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 84.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 84.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 84.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 84.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 84.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 84.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 84.
+
+LaTeX Font Info:    <567INP ot1zplm.fd> on input line 84.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/psnfss/ot1zplm
+.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 98.
+<789FIG cms_draft_an 0>
+<cms_draft_an.pdf, id=37, 455.24379pt x 102.42967pt>
+File: cms_draft_an.pdf Graphic file (type pdf)
+<use cms_draft_an.pdf>
+Package pdftex.def Info: cms_draft_an.pdf used on input line 98.
+(pdftex.def)             Requested size: 455.24268pt x 102.42941pt.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 98.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 98.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 98.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 98.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 98.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 98.
+\c@c@author=\count151
+\c@c@tmp=\count152
+\c@c@address=\count153
+
+Overfull \hbox (16.25952pt too wide) in paragraph at lines 98--98
+[] [][][] 
+ []
+
+<789FIG BigDraft 0>
+<BigDraft.pdf, id=39, 597.50829pt x 845.0471pt>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 98.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[1
+
+{/afs/cern.ch/cms/external/tex/texlive/2010/texmf-var/fonts/map/pdftex/updmap/p
+dftex.map} </afs/cern.ch/user/w/wvandrie/AN/notes/general/BigDraft.pdf> </afs/c
+ern.ch/user/w/wvandrie/AN/notes/general/cms_draft_an.pdf>]
+<789FIG BigDraft 0>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 98.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[2
+
+]
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 106.
+
+LaTeX Font Info:    <567INP ot1phv.fd> on input line 106.
+
+(/afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/tex/latex/psnfss/ot1phv.
+fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 106.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 110.
+
+Package natbib Warning: Citation `Nilles:1983ge' on page 1 undefined on input l
+ine 110.
+
+
+Package natbib Warning: Citation `Randall:1998uk' on page 1 undefined on input 
+line 110.
+
+
+Package natbib Warning: Citation `oai:arXiv.org:hep-ph/0604261' on page 1 undef
+ined on input line 110.
+
+
+Package natbib Warning: Citation `oai:arXiv.org:0812.2051' on page 1 undefined 
+on input line 110.
+
+
+Package natbib Warning: Citation `Hongliang' on page 1 undefined on input line 
+113.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+
+Package natbib Warning: Citation `Chatrchyan:2012jwg' on page 1 undefined on in
+put line 115.
+
+
+Package natbib Warning: Citation `oai:arXiv.org:1008.2133' on page 1 undefined 
+on input line 120.
+
+<789FIG Feynman2.png 0>
+<Feynman2.png, id=92, 1251.67625pt x 316.18124pt>
+File: Feynman2.png Graphic file (type png)
+<use Feynman2.png>
+Package pdftex.def Info: Feynman2.png used on input line 124.
+(pdftex.def)             Requested size: 455.24408pt x 114.99751pt.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 130.
+<789FIG BigDraft 1>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 130.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[1 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/Feynman2.png (PNG cop
+y)>]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 131.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 131.
+
+Package natbib Warning: Citation `PhysRevD.84.052011' on page 2 undefined on in
+put line 140.
+
+<789FIG conversion.png 1>
+<conversion.png, id=106, 971.63pt x 659.46375pt>
+File: conversion.png Graphic file (type png)
+<use conversion.png>
+Package pdftex.def Info: conversion.png used on input line 145.
+(pdftex.def)             Requested size: 284.52756pt x 193.11122pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 162.
+<789FIG BigDraft 2>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 162.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[2]
+<789FIG dxycomparisonsignal.png 2a>
+<dxycomparisonsignal.png, id=117, 448.67625pt x 356.83313pt>
+File: dxycomparisonsignal.png Graphic file (type png)
+<use dxycomparisonsignal.png>
+Package pdftex.def Info: dxycomparisonsignal.png used on input line 167.
+(pdftex.def)             Requested size: 455.24408pt x 362.07016pt.
+<789FIG dzcomparisonsignal.png 2b>
+<dzcomparisonsignal.png, id=119, 448.67625pt x 356.83313pt>
+File: dzcomparisonsignal.png Graphic file (type png)
+<use dzcomparisonsignal.png>
+Package pdftex.def Info: dzcomparisonsignal.png used on input line 171.
+(pdftex.def)             Requested size: 455.24408pt x 362.07016pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 166--173
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 166--173
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--173
+
+ []
+
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 173.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 173.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 173.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 173.
+
+LaTeX Warning: Float too large for page by 116.6501pt on input line 175.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<789FIG BigDraft 3>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 189.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[3 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/conversion.png (PNG c
+opy)>]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 194.
+
+LaTeX Warning: Reference `sec:GMSB' on page 4 undefined on input line 194.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
+
+ []
+
+<789FIG BigDraft 3>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 224.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[4]
+<789FIG n-1PhotPtline.png 3a>
+<n-1PhotPtline.png, id=148, 429.10312pt x 347.79938pt>
+File: n-1PhotPtline.png Graphic file (type png)
+<use n-1PhotPtline.png>
+Package pdftex.def Info: n-1PhotPtline.png used on input line 227.
+(pdftex.def)             Requested size: 455.24408pt x 368.9893pt.
+<789FIG n-1METline.png 3b>
+<n-1METline.png, id=149, 429.85594pt x 342.5297pt>
+File: n-1METline.png Graphic file (type png)
+<use n-1METline.png>
+Package pdftex.def Info: n-1METline.png used on input line 230.
+(pdftex.def)             Requested size: 455.24408pt x 362.76614pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 226--232
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 226--232
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--232
+
+ []
+
+
+LaTeX Warning: Float too large for page by 126.18819pt on input line 234.
+
+<789FIG n-1nJetsline.png 4a>
+<n-1nJetsline.png, id=150, 421.575pt x 338.76563pt>
+File: n-1nJetsline.png Graphic file (type png)
+<use n-1nJetsline.png>
+Package pdftex.def Info: n-1nJetsline.png used on input line 240.
+(pdftex.def)             Requested size: 455.24408pt x 365.8304pt.
+<789FIG n-1nPhotline.png 4b>
+<n-1nPhotline.png, id=151, 419.31656pt x 341.77687pt>
+File: n-1nPhotline.png Graphic file (type png)
+<use n-1nPhotline.png>
+Package pdftex.def Info: n-1nPhotline.png used on input line 243.
+(pdftex.def)             Requested size: 455.24408pt x 371.05875pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 239--245
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 239--245
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--245
+
+ []
+
+
+LaTeX Warning: Float too large for page by 131.30794pt on input line 247.
+
+<789FIG cone.png 5>
+<cone.png, id=153, 351.56343pt x 337.26pt>
+File: cone.png Graphic file (type png)
+<use cone.png>
+Package pdftex.def Info: cone.png used on input line 258.
+(pdftex.def)             Requested size: 227.62204pt x 218.35698pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `Hongliang' on page 5 undefined on input line 
+282.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--285
+
+ []
+
+<789FIG BigDraft 6>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 285.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[5]
+<789FIG phomatchedele.png 6a>
+<phomatchedele.png, id=166, 598.235pt x 475.7775pt>
+File: phomatchedele.png Graphic file (type png)
+<use phomatchedele.png>
+Package pdftex.def Info: phomatchedele.png used on input line 290.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+<789FIG convmatchedele.png 6b>
+<convmatchedele.png, id=167, 598.235pt x 475.7775pt>
+File: convmatchedele.png Graphic file (type png)
+<use convmatchedele.png>
+Package pdftex.def Info: convmatchedele.png used on input line 293.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 289--295
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 289--295
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--295
+
+ []
+
+
+LaTeX Warning: Float too large for page by 132.00139pt on input line 297.
+
+<789FIG nPhotMC.png 7a>
+<nPhotMC.png, id=170, 598.235pt x 475.7775pt>
+File: nPhotMC.png Graphic file (type png)
+<use nPhotMC.png>
+Package pdftex.def Info: nPhotMC.png used on input line 309.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+<789FIG nJetsMC.png 7b>
+<nJetsMC.png, id=171, 598.235pt x 475.7775pt>
+File: nJetsMC.png Graphic file (type png)
+<use nJetsMC.png>
+Package pdftex.def Info: nJetsMC.png used on input line 313.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 308--315
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 308--315
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--315
+
+ []
+
+
+LaTeX Warning: Float too large for page by 116.47812pt on input line 317.
+
+<789FIG EtaMC.png 8a>
+<EtaMC.png, id=172, 598.235pt x 475.7775pt>
+File: EtaMC.png Graphic file (type png)
+<use EtaMC.png>
+Package pdftex.def Info: EtaMC.png used on input line 325.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+<789FIG METMC.png 8b>
+<METMC.png, id=173, 598.235pt x 475.7775pt>
+File: METMC.png Graphic file (type png)
+<use METMC.png>
+Package pdftex.def Info: METMC.png used on input line 329.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 324--331
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 324--331
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--331
+
+ []
+
+
+LaTeX Warning: Float too large for page by 116.47812pt on input line 333.
+
+<789FIG JetPtleadingMC.png 9a>
+<JetPtleadingMC.png, id=174, 448.67625pt x 356.83313pt>
+File: JetPtleadingMC.png Graphic file (type png)
+<use JetPtleadingMC.png>
+Package pdftex.def Info: JetPtleadingMC.png used on input line 340.
+(pdftex.def)             Requested size: 455.24408pt x 362.07016pt.
+<789FIG PhotPtleadingMC.png 9b>
+<PhotPtleadingMC.png, id=175, 598.235pt x 475.7775pt>
+File: PhotPtleadingMC.png Graphic file (type png)
+<use PhotPtleadingMC.png>
+Package pdftex.def Info: PhotPtleadingMC.png used on input line 344.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 339--346
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 339--346
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--346
+
+ []
+
+
+LaTeX Warning: Float too large for page by 116.48901pt on input line 348.
+
+<789FIG sigmaietaMC.png 10a>
+<sigmaietaMC.png, id=176, 598.235pt x 475.7775pt>
+File: sigmaietaMC.png Graphic file (type png)
+<use sigmaietaMC.png>
+Package pdftex.def Info: sigmaietaMC.png used on input line 356.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+<789FIG sMinMC.png 10b>
+<sMinMC.png, id=177, 598.235pt x 475.7775pt>
+File: sMinMC.png Graphic file (type png)
+<use sMinMC.png>
+Package pdftex.def Info: sMinMC.png used on input line 360.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 355--362
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 355--362
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--362
+
+ []
+
+
+LaTeX Warning: Float too large for page by 116.47812pt on input line 364.
+
+<789FIG dXYMC.png 11>
+<dXYMC.png, id=178, 598.235pt x 475.7775pt>
+File: dXYMC.png Graphic file (type png)
+<use dXYMC.png>
+Package pdftex.def Info: dXYMC.png used on input line 370.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--399
+
+ []
+
+<789FIG BigDraft 12>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 399.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 408--411
+
+ []
+
+<789FIG dxycomparisonfakehighfakelowisolow.png 12>
+<dxycomparisonfakehighfakelowisolow.png, id=194, 448.67625pt x 356.83313pt>
+File: dxycomparisonfakehighfakelowisolow.png Graphic file (type png)
+<use dxycomparisonfakehighfakelowisolow.png>
+Package pdftex.def Info: dxycomparisonfakehighfakelowisolow.png used on input l
+ine 415.
+(pdftex.def)             Requested size: 455.24408pt x 362.07016pt.
+<789FIG nPhotDD.png 13a>
+<nPhotDD.png, id=195, 598.235pt x 475.7775pt>
+File: nPhotDD.png Graphic file (type png)
+<use nPhotDD.png>
+Package pdftex.def Info: nPhotDD.png used on input line 426.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+<789FIG nJetsDD.png 13b>
+<nJetsDD.png, id=196, 598.235pt x 475.7775pt>
+File: nJetsDD.png Graphic file (type png)
+<use nJetsDD.png>
+Package pdftex.def Info: nJetsDD.png used on input line 430.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 425--432
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 425--432
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--432
+
+ []
+
+
+LaTeX Warning: Float too large for page by 116.47812pt on input line 434.
+
+<789FIG EtaDD.png 14a>
+<EtaDD.png, id=197, 598.235pt x 475.7775pt>
+File: EtaDD.png Graphic file (type png)
+<use EtaDD.png>
+Package pdftex.def Info: EtaDD.png used on input line 442.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+<789FIG JetPtleadingDD.png 14b>
+<JetPtleadingDD.png, id=198, 598.235pt x 475.7775pt>
+File: JetPtleadingDD.png Graphic file (type png)
+<use JetPtleadingDD.png>
+Package pdftex.def Info: JetPtleadingDD.png used on input line 446.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 441--448
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 441--448
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--448
+
+ []
+
+
+LaTeX Warning: Float too large for page by 116.47812pt on input line 450.
+
+<789FIG sMinDD.png 15a>
+<sMinDD.png, id=199, 598.235pt x 475.7775pt>
+File: sMinDD.png Graphic file (type png)
+<use sMinDD.png>
+Package pdftex.def Info: sMinDD.png used on input line 458.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+<789FIG PhotPtleadingDD.png 15b>
+<PhotPtleadingDD.png, id=200, 598.235pt x 475.7775pt>
+File: PhotPtleadingDD.png Graphic file (type png)
+<use PhotPtleadingDD.png>
+Package pdftex.def Info: PhotPtleadingDD.png used on input line 462.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 457--464
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 457--464
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--464
+
+ []
+
+
+LaTeX Warning: Float too large for page by 116.47812pt on input line 466.
+
+<789FIG SigmaIetaDD.png 16a>
+<SigmaIetaDD.png, id=201, 598.235pt x 475.7775pt>
+File: SigmaIetaDD.png Graphic file (type png)
+<use SigmaIetaDD.png>
+Package pdftex.def Info: SigmaIetaDD.png used on input line 474.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+<789FIG dXYDD.png 16b>
+<dXYDD.png, id=202, 598.235pt x 475.7775pt>
+File: dXYDD.png Graphic file (type png)
+<use dXYDD.png>
+Package pdftex.def Info: dXYDD.png used on input line 478.
+(pdftex.def)             Requested size: 455.24408pt x 362.05927pt.
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 473--480
+[][][]
+ []
+
+
+Overfull \hbox (20.00551pt too wide) in paragraph at lines 473--480
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--480
+
+ []
+
+
+LaTeX Warning: Float too large for page by 116.47812pt on input line 482.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--488
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<789FIG BigDraft 17>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 510.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[7]
+
+Package natbib Warning: Citation `CMS-PAS-SMP-12-008' on page 8 undefined on in
+put line 512.
+
+
+Package natbib Warning: Citation `CMS-NOTE-2011-005' on page 8 undefined on inp
+ut line 516.
+
+
+Package natbib Warning: Citation `Junk:1999kv' on page 8 undefined on input lin
+e 516.
+
+
+Package natbib Warning: Citation `0954-3899-28-10-313' on page 8 undefined on i
+nput line 516.
+
+
+Package natbib Warning: Citation `lalala' on page 8 undefined on input line 516
+.
+
+
+LaTeX Warning: Reference `fig:limitplotsshape7TeV' on page 8 undefined on input
+ line 516.
+
+<789FIG exclusionnoshapefinal.png 17>
+<exclusionnoshapefinal.png, id=227, 1025.33063pt x 540.51938pt>
+File: exclusionnoshapefinal.png Graphic file (type png)
+<use exclusionnoshapefinal.png>
+Package pdftex.def Info: exclusionnoshapefinal.png used on input line 520.
+(pdftex.def)             Requested size: 455.24408pt x 239.99014pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<789FIG exclusionshapefinal.png 18>
+<exclusionshapefinal.png, id=228, 1025.33063pt x 540.51938pt>
+File: exclusionshapefinal.png Graphic file (type png)
+<use exclusionshapefinal.png>
+Package pdftex.def Info: exclusionshapefinal.png used on input line 529.
+(pdftex.def)             Requested size: 455.24408pt x 239.99014pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.537 \begin{figure}[h]
+                       
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\caption@ORI@xfloat ... \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.537 \begin{figure}[h]
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.537 \begin{figure}[h]
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! Package keyval Error: 9cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.539 ...raphics[9cm]{exclusionshapefinal7TeV.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<789FIG exclusionshapefinal7TeV.png 19>
+<exclusionshapefinal7TeV.png, id=229, 694.595pt x 416.55624pt>
+File: exclusionshapefinal7TeV.png Graphic file (type png)
+<use exclusionshapefinal7TeV.png>
+Package pdftex.def Info: exclusionshapefinal7TeV.png used on input line 539.
+(pdftex.def)             Requested size: 694.5933pt x 416.55522pt.
+
+Overfull \hbox (239.34923pt too wide) in paragraph at lines 539--540
+ [][] 
+ []
+
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.542 \end{figure}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.542 \end{figure}
+                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.542 \end{figure}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.542 \end{figure}
+                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.542 \end{figure}
+                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra \else.
+\sf@end@float ...ma \penalty \@floatpenalty \else 
+                                                  \vadjust {\penalty -\@Miv ...
+l.542 \end{figure}
+                  
+I'm ignoring this; it doesn't match any \if.
+
+! You can't use `\vadjust' in vertical mode.
+\sf@end@float ...ty \@floatpenalty \else \vadjust 
+                                                  {\penalty -\@Miv \vbox {}\...
+l.542 \end{figure}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.542 \end{figure}
+                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.542 \end{figure}
+                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--551
+
+ []
+
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 563.
+
+Overfull \vbox (350.268pt too high) has occurred while \output is active []
+
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[8]
+
+! LaTeX Error: Float(s) lost.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.563 \end{document}
+                    
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[9 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/dxycomparisonsignal.p
+ng> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/dzcomparisonsignal.p
+ng>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[10 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/n-1PhotPtline.png> <
+/afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/n-1METline.png>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[11 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/n-1nJetsline.png> </
+afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/n-1nPhotline.png>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[12 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/cone.png>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[13 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/phomatchedele.png (P
+NG copy)> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/convmatchedele
+.png (PNG copy)>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[14 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/nPhotMC.png (PNG cop
+y)> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/nJetsMC.png (PNG cop
+y)>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[15 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/EtaMC.png (PNG copy)
+> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/METMC.png (PNG copy)>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[16 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/JetPtleadingMC.png> 
+</afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/PhotPtleadingMC.png (PNG
+ copy)>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[17 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/sigmaietaMC.png (PNG
+ copy)> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/sMinMC.png (PNG 
+copy)>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[18 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/dXYMC.png (PNG copy)
+>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[19 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/dxycomparisonfakehig
+hfakelowisolow.png>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[20 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/nPhotDD.png (PNG cop
+y)> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/nJetsDD.png (PNG cop
+y)>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[21 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/EtaDD.png (PNG copy)
+> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/JetPtleadingDD.png (PN
+G copy)>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[22 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/sMinDD.png (PNG copy
+)> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/PhotPtleadingDD.png (
+PNG copy)>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[23 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/SigmaIetaDD.png (PNG
+ copy)> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/dXYDD.png (PNG c
+opy)>]
+<789FIG BigDraft 20>
+File: BigDraft.pdf Graphic file (type pdf)
+<use BigDraft.pdf>
+Package pdftex.def Info: BigDraft.pdf used on input line 563.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+[24 </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/exclusionnoshapefina
+l.png> </afs/cern.ch/user/w/wvandrie/AN/notes/AN-13-421/trunk/exclusionshapefin
+al.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 563.
+(/afs/cern.ch/user/w/wvandrie/AN/notes/tmp/AN-13-421_temp.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 563.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 563.
+Package rerunfilecheck Info: File `AN-13-421_temp.out' has not changed.
+(rerunfilecheck)             Checksum: 8F3CA5DACD9FC8A2FF50C85CAEE9AE33;471.
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 563.
+ )
+(\end occurred when \ifnum on line 542 was incomplete)
+(\end occurred when \iftrue on line 542 was incomplete)
+(\end occurred when \ifnum on line 542 was incomplete)
+(\end occurred when \ifnum on line 542 was incomplete)
+(\end occurred when \ifnum on line 542 was incomplete)
+(\end occurred when \iftrue on line 542 was incomplete)
+(\end occurred when \ifnum on line 542 was incomplete)
+(\end occurred when \ifnum on line 542 was incomplete) 
+Here is how much of TeX's memory you used:
+ 10081 strings out of 494309
+ 143865 string characters out of 3157113
+ 297777 words of memory out of 3000000
+ 12992 multiletter control sequences out of 15000+200000
+ 58855 words of font info for 153 fonts, out of 3000000 for 9000
+ 456 hyphenation exceptions out of 8191
+ 51i,15n,45p,1655b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/afs/cern.ch/cms/externa
+l/tex/texlive/2010/texmf-dist/fonts/enc/dvips/base/8r.enc}</afs/cern.ch/cms/ext
+ernal/tex/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></a
+fs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb></afs/cern.ch/cms/external/tex/texlive/2010/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></afs/cern.ch/cms/external/te
+x/texlive/2010/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></afs/cern.ch/c
+ms/external/tex/texlive/2010/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb>
+</afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/fonts/type1/urw/helvetic
+/uhvb8a.pfb></afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/fonts/type1/
+urw/helvetic/uhvr8a.pfb></afs/cern.ch/cms/external/tex/texlive/2010/texmf-dist/
+fonts/type1/urw/palatino/uplb8a.pfb></afs/cern.ch/cms/external/tex/texlive/2010
+/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></afs/cern.ch/cms/external/tex/
+texlive/2010/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on AN-13-421_temp.pdf (26 pages, 1005426 bytes).
+PDF statistics:
+ 404 PDF objects out of 1000 (max. 8388607)
+ 298 compressed objects within 3 object streams
+ 94 named destinations out of 1000 (max. 500000)
+ 235 words of extra memory for PDF output out of 10000 (max. 10000000)
+
